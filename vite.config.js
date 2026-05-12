@@ -5,5 +5,5 @@ import react from '@vitejs/plugin-react'
 // base must match the subdirectory on GoDaddy: https://geochem.gdm-enviro.com/
 export default defineConfig({
   plugins: [react()],
-  base: '/geochem/',
+  base: '/',
 })
